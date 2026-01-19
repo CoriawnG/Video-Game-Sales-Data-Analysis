@@ -4,8 +4,6 @@ Project Overview
 
 This project analyzes global video game sales data to uncover trends across **genres**, **platforms**, and **release years**. Using Python and common data analysis libraries, the project demonstrates how raw data can be cleaned, explored, visualized, and transformed into meaningful insights.
 
-This project is designed to showcase **foundational data analysis skills** suitable for internships and entry-level roles in data analytics, technology, and software development.
-
 ---
 
 Tools & Technologies
@@ -116,7 +114,7 @@ Author
 
 **Coriawn Griffin**
 Computer Science & Information Systems Student
-Aspiring Data Analyst / Software Engineer
+Aspiring Data Analyst / Software Engineer / Game Designer / Machine Learning
 
 ---
 
